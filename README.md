@@ -1,4 +1,4 @@
-# Laya: PyTorch learning examples and a toy RLCD pipeline
+# RLCD: PyTorch learning examples and a toy pipeline
 
 This repository records small PyTorch exercises that lead to a **toy RLCD-style demonstration**. The scripts run on Apple Silicon through PyTorch MPS when available and fall back to CPU elsewhere.
 
